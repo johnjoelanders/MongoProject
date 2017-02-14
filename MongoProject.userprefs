@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{AE467AAC-B2FD-4C76-9864-7C88A7810E3E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MongoProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MongoProject Status">
+    <Files>
+      <File FileName="MongoProject Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
