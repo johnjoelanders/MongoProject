@@ -22,11 +22,6 @@ namespace MongoProject
             InitializeComponent();
         }
 
-        private void read_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private async void btnSearch_Click(object sender, EventArgs e)
         {
 

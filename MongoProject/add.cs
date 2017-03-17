@@ -39,7 +39,7 @@ namespace MongoProject
             comboCategory.Items.Add("Autobiographies");
         }
 
-        private void btnEnter_Click(object sender, EventArgs e)
+        public void btnEnter_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Title: " + txtTitle.Text + "\n" + "Author: " + txtAuthor.Text + "\n" + "Publisher: " + txtPublisher.Text +
                 "\n" + "Isbn: " + txtIsbn.Text.ToString() + "\n" + "Category: " + comboCategory.Text, "Hello", MessageBoxButtons.OK, MessageBoxIcon.Information);

@@ -137,7 +137,6 @@
             this.Controls.Add(this.dgvRead);
             this.Name = "read";
             this.Text = "read";
-            this.Load += new System.EventHandler(this.read_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvRead)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

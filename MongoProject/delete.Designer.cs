@@ -276,7 +276,6 @@
             this.Controls.Add(this.menuStrip1);
             this.Name = "delete";
             this.Text = "delete";
-            this.Load += new System.EventHandler(this.delete_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDelete)).EndInit();
