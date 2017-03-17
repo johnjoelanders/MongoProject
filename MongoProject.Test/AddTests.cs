@@ -7,6 +7,11 @@ namespace MongoProject.Tests
     public class AddTests
     {
 
+        [TestMethod()]
+        public void btnEnter_ClickTest()
+        {
+            Assert.Fail();
+        }
     }
 }
 
