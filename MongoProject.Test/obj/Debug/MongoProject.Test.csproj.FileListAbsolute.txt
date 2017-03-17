@@ -1,0 +1,13 @@
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoProject.Test.dll
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoProject.Test.pdb
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoProject.exe
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoDB.Driver.dll
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoDB.Bson.dll
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoProject.pdb
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoDB.Driver.xml
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoDB.Bson.xml
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\obj\Debug\MongoProject.Test.csprojResolveAssemblyReference.cache
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\obj\Debug\MongoProject.Test.dll
+C:\Users\John\Source\Repos\MongoProject\MongoProject.Test\obj\Debug\MongoProject.Test.pdb
